@@ -108,12 +108,12 @@
 }
 
 .trending-drink .trending__image {
-  background-image: url("../../assets/japanese_drinks.png");
+  background-image: url("../../assets/biryani-4.png");
 }
 
 .trending__image img {
-  width: 254px;
-  height: 260px;
+  width: 500px;
+  height: 500px;
   object-fit: contain;
 }
 
