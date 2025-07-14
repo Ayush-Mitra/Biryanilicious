@@ -29,16 +29,9 @@
 
 .about-us__image-biryani3 {
     border-bottom: 8px solid var (--color-creamson);
-
-    background-image: url("../../assets/about_bg1.png");
-
 }
 
-.about-us__image-biryani2 {
 
-    background-image: url("../../assets/about_bg2.png");
-    
-}
 
 .about-us__image-biryani3 img {
     width:505px;
