@@ -12,6 +12,9 @@
     "vite": "^7.0.3"
   },
   "dependencies": {
-    "aos": "^2.3.4"
+    "@supabase/supabase-js": "^2.51.0",
+    "aos": "^2.3.4",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
   }
 }
